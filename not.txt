@@ -1,0 +1,1 @@
+Bu ödevde Türkçe karakter sorunu yaşamamak için PHP'nin mbstring eklentisi kullanılmıştır. Ödevin çalışması için 'mbstring' eklentisinin kurulu olduğundan emin olunuz.
